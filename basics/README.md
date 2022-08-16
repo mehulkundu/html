@@ -24,9 +24,13 @@ Though strong and bold are visually same, so is emphasis and italics but **bold 
 
 ### Block elements vs inline elements
 
-Block Elements - Always starts on a new line and occupies the full width available. e.g. Heading, Paragraph, Division tags. 
+Block Elements - Always starts on a new line and occupies the full width available. e.g. Heading, Paragraph, Division, Table tags. 
 Inline Elements - Does not start on a new lien and takes as much space that is necessary. e.g. Inline formatting tags such as `<storng>`, `<em>`, `<sub>`, `<sup>`, `<del>`,  `<mark>`, Span, Image, Anchor tag etc.
 
 ### `<div>` and `<span>` tags
 
-When writing HTML alone the div and span tag has less significance. But usefull when we are applying style in group of element or in group of text. More prominent use while using with CSS.
+When writing HTML alone the div and span tag has less significance. But useful when we are applying style in group of element or in group of text. More prominent use while using with CSS.
+
+### `for` in `<lable>` tag
+
+it is a good practice to add for in a label tag specifying the element id for which the label is made. 
