@@ -25,7 +25,7 @@ Though strong and bold are visually same, so is emphasis and italics but **bold 
 ### Block elements vs inline elements
 
 Block Elements - Always starts on a new line and occupies the full width available. e.g. Heading, Paragraph, Division tags. 
-Inline Elements - Does not start on a new lien and takes as much space that is necessary. e.g. Inline formatting tags such as `<storng>`, `<em>`, `<sub>`, `<sup>`, `<del>`,  `<mark>` and Span tag etc.
+Inline Elements - Does not start on a new lien and takes as much space that is necessary. e.g. Inline formatting tags such as `<storng>`, `<em>`, `<sub>`, `<sup>`, `<del>`,  `<mark>`, Span, Image, Anchor tag etc.
 
 ### `<div>` and `<span>` tags
 
